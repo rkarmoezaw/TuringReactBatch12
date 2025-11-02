@@ -7,6 +7,10 @@ let myCar;
 let mycar;
 let $if;
 let ကားတန်ဖိုး = 400;
+let cafe = 1;
+let café;
+console.log(café);
+
 console.log(' + ', a + b);
 console.log(' - ', a - b);
 console.log(' * ', a * b);

@@ -1,0 +1,14 @@
+let a = 7;
+console.log('typeof a', a, typeof a);
+
+a = 'hello';
+console.log('typeof a', a, typeof a);
+
+a = true;
+console.log('typeof a', a, typeof a);
+
+a = null;
+console.log('typeof a', a, typeof a);
+
+a = undefined;
+console.log('typeof a', a, typeof a);

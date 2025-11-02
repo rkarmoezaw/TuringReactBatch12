@@ -1,0 +1,12 @@
+let item = 'Apple';
+let qty = 10;
+let price = 15.0;
+
+let total = qty * price;
+console.log('Total cost of ', item, ' is $', total);
+
+let item1 = {
+  name: 'Banana',
+  qty: 5,
+  price: 20,
+};
