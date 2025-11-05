@@ -1,0 +1,6 @@
+console.log('""+123 ', '' + 123);
+console.log('""+NaN ', '' + NaN);
+console.log('""+undefined ', '' + undefined);
+console.log('""+null ', '' + null);
+console.log('""+false', '' + false);
+console.log('""+true ', '' + true);

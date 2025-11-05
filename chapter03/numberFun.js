@@ -1,0 +1,12 @@
+let a = 10.123;
+console.log('a.toFixed(2) ', a.toFixed(2));
+
+a = 3;
+console.log('a.toString(2) ', a.toString(2));
+console.log('a.toString(8) ', a.toString(8));
+console.log('a.toString(10) ', a.toString(10));
+
+a = 9;
+console.log('a.toString(2) ', a.toString(2));
+console.log('a.toString(8) ', a.toString(8));
+console.log('a.toString(10) ', a.toString(10));

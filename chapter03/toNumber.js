@@ -1,0 +1,12 @@
+//string
+console.log('+"10" ', +'10');
+console.log('+"" ', +'');
+console.log('+"Hello" ', +'Hello');
+
+//boolean
+console.log('+true ', +true);
+console.log('+false ', +false);
+
+//null undefine
+console.log('+null ', +null);
+console.log('+undefined ', +undefined);

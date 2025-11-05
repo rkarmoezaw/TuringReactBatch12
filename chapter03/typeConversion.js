@@ -1,0 +1,8 @@
+let a = '10' * '2';
+//"10"->number ,
+//"2"->number
+//10 * 2
+console.log('a ', a);
+
+a = '10' + 2; //semantics string concat/ number arithmetic
+console.log('a ', a);

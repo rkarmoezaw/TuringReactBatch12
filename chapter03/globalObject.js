@@ -1,0 +1,5 @@
+console.log('window ', window);
+window.console.log('This is from console of window object');
+
+console.log('isNaN ', window.isNaN(NaN));
+console.log('isNaN ', isNaN(NaN));

@@ -1,0 +1,8 @@
+let isRaining = false; //false
+console.log('typeOf isRaining ', typeof isRaining);
+
+if (isRaining) {
+  console.log('Take umbrella');
+} else {
+  console.log('No need to take umbrella');
+}
